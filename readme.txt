@@ -3,7 +3,7 @@ HTML markup is adaptive for devices with a small screen.
 The functional part has been developed using the Denwer software package. Example Database was created with phpMyAdmin.
 
 File Guide:
-1. shop.php					main webpage with products container and cookie refresh
+1. shop.php				main webpage with products container and cookie refresh
 2. basket.php				webpage with products basket
 3. shop_login.php			a web page with a login form on the site
 4. shop_reg.php				web page with the registration form of the site
