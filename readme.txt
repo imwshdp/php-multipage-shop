@@ -2,7 +2,7 @@ Example of simple online shop webpage, implemented in HTML, CSS and Php.
 HTML markup is adaptive for devices with a small screen. 
 The functional part has been developed using the Denwer software package. Example Database was created with phpMyAdmin.
 
-File Guide:
+Files Guide:
 1. shop.php                   main webpage with products container and cookie refresh
 2. basket.php                 webpage with shopping cart
 3. shop_login.php             webpage with login form on the site
