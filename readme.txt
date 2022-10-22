@@ -13,4 +13,4 @@ File Guide:
 8. delete_from_basket.php	        php script for removing an item from the shopping cart
 9. remove.php				php script for deleting one item in cart
 10. show_orders.php			webpage with user orders
-11. products directory		    folder with items images
+11. products directory		      folder with items images
