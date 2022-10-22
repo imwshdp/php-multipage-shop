@@ -10,7 +10,7 @@ File Guide:
 5. add.php				php script for adding one item in cart
 6. add_product.php			php script for adding a product to the shopping cart page
 7. confirm_order.php    		webpage with successful notification of the created order and php script of order creation
-8. delete_from_basket.php  	          php script for removing an item from the shopping cart
+8. delete_from_basket.php  	         php script for removing an item from the shopping cart
 9. remove.php				php script for deleting one item in cart
 10. show_orders.php			webpage with user orders
-11. products directory  		   folder with items images
+11. products directory  		  folder with items images
